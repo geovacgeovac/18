@@ -1,0 +1,17 @@
+[
+  {
+    "name": "XYZ",
+    "address": "1440 Ryan Place, Mississauga, Ontario L5C 1J6, Canada",
+    "unitNumber": "123",
+    "latitude": "43.553596",
+    "longitude": "-79.654531",
+    "telephone": "234-234-3456",
+    "extension": "33",
+    "email": "geovac@icloud.com",
+    "tags": [
+      "Wills & Estates",
+      "Corporate and Commercial Law"
+    ],
+    "image": "https://static1.squarespace.com/static/6565fcef97ae3b79a1ed1d92/t/67537224134ec168f649cf9b/1733521956403/Ali+%26+Demek.jpg"
+  }
+]
